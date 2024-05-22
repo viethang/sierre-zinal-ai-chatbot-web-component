@@ -1,0 +1,19 @@
+{
+  "name": "sierre-zinal-ai-chatbot-web-component",
+  "version": "1.0.0",
+  "description": "Web component for Sierre-Zinal's AI Chatbot",
+  "main": "chatbot-web-component.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/viethang/sierre-zinal-ai-chatbot-web-component.git"
+  },
+  "author": "Viet Hang Nguyen",
+  "license": "",
+  "bugs": {
+    "url": "https://github.com/viethang/sierre-zinal-ai-chatbot-web-component/issues"
+  },
+  "homepage": "https://github.com/viethang/sierre-zinal-ai-chatbot-web-component#readme"
+}
